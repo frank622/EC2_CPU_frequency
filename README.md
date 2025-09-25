@@ -70,7 +70,11 @@
 | p6e Instances | Nvidia Grace | 3.0GHz |
 
 
-Notes
-1,New instances requires compatibility with the new OS; otherwise,it may lead to performance regression.
-2,For frequency-sensitive applications, the new-generation instances may perform worse than the older onees.(For examples, 7i instance/3.2GHz vs 6i instance/3.5Ghz)
-For any questions,please contact me via email:frank622@gmail.com
+> **📝 Notes**
+> 
+> 1. New instances require compatibility with the new OS; otherwise, it may lead to performance regression.
+> 2. For frequency-sensitive applications, the new-generation instances may perform worse than the older ones.  
+>    (For example: 7i instance/3.2GHz vs 6i instance/3.5GHz)
+> 
+> For any questions, please contact me via email: **frank622@gmail.com**
+

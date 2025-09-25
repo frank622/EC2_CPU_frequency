@@ -63,7 +63,7 @@
 | C7a/M7a/R7a/hpc7a instances| 9R14| 3.7GHz|
 
 # Graviton&ARM CPU-based instances
-| EC2 instance types| CPU | All core turbo frequency|
+| EC2 instance types| CPU | frequency|
 |---------|---------|---------|
 | A1 Instances | AWS Graviton1 | 2.3GHz |
 | CRM 6g/is4gen/im4gn/I4g/t4g Instances | AWS Graviton2 | 2.5GHz |

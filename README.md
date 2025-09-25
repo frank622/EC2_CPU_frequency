@@ -23,6 +23,7 @@
 |---------|---------|---------|
 | C/M/R 7i-flex/C/M/R 7i/p5en instances|  8488C  | 3.2GHz|
 | r7iz instances| 6455B  | 3.9GHz|
+| u7i instances|  | 2.9GHz|
 
 
 #### Custom Intel Xeon 5 processors（Emerald Rapids)

@@ -19,12 +19,14 @@
 
 
 #### Custom Intel Xeon 4 processors（Sapphire Rapids)
-| EC2 Gen7 instance types| CPU | All core turbo  frequency|
-|---------|---------|---------|
-| C/M/R 7i-flex/C/M/R 7i/p5en instances|  8488C  | 3.2GHz|
-| r7iz instances| 6455B  | 3.9GHz|
-| u7i instances|  | 2.9GHz|
-* u7i refers to the HPE3200
+| EC2 Gen7 instance types | CPU | All core turbo frequency |
+|-------------------------|-----|--------------------------|
+| C/M/R 7i-flex/C/M/R 7i/p5en instances | 8488C | 3.2GHz |
+| r7iz instances | 6455B | 3.9GHz |
+| u7i instances | 84xxH | 2.9GHz |
+
+<small>* u7i refers to the HPE3200</small>
+
 
 
 #### Custom Intel Xeon 5 processors（Emerald Rapids)

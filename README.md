@@ -35,7 +35,7 @@
 #### Custom Intel Xeon 6 processors(Granite Rapids)
 | EC2 Gen8 instance types| CPU | All core turbo frequency|
 |---------|---------|---------|
-| R/M8i and R/M8i-flex instances| 6975P-C| 3.9GHz|
+| R/M8i/R/M8i-flex instances| 6975P-C| 3.9GHz|
 
 # AMD CPU-based instances
 #### Custom AMD EYPC Zen1 processors(Naples)
@@ -46,7 +46,7 @@
 #### Custom AMD EYPC Zen2 processors(Rome)
 | EC2 Gen5 instance types| CPU | All core turbo frequency|
 |---------|---------|---------|
-| C5a/hpc5a//G4ad/G5 instances| 7R32| 3.3GHz|
+| C5a/hpc5a/G4ad/G5 instances| 7R32| 3.3GHz|
 
 #### Custom AMD EYPC Zen3 processors(Milan)
 | EC2 Gen6 instance types| CPU | All core turbo frequency|
@@ -69,5 +69,7 @@
 | 8g/I8g Instances | AWS Graviton4 | 2.8GHz（2.7GHz for 48xlarge） |
 | p6e Instances | Nvidia Grace | 3.0GHz |
 
+
+*New instances requires compatibility with the new OS; otherwise,it may lead to performance regression.
 
 For any Questions,please contact me via email:frank622@gmail.com

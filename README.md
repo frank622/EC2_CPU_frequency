@@ -56,7 +56,7 @@
 #### Custom AMD EYPC Zen4 processors(Genoa)
 | EC2 Gen7 instance types| CPU | All core turbo frequency|
 |---------|---------|---------|
-| C7a/M7a/R7a instances| 9R14| 3.7GHz|
+| C7a/M7a/R7a/hpc7a instances| 9R14| 3.7GHz|
 
 # Graviton&ARM CPU-based instances
 | EC2 instance types| CPU | All core turbo frequency|

@@ -21,15 +21,15 @@
 #### Custom Intel Xeon 4 processors（Sapphire Rapids)
 | EC2 Gen7 instance types| CPU | All core turbo  frequency|
 |---------|---------|---------|
-| C/M/R 7i-flex/C/M/R 7i instances|  8488C  | 3.2GHz|
+| C/M/R 7i-flex/C/M/R 7i/p5en instances|  8488C  | 3.2GHz|
 | r7iz instances| 6455B  | 3.9GHz|
-| p5en instances|  |  |
+
 
 #### Custom Intel Xeon 5 processors（Emerald Rapids)
 | EC2 Gen7 instance types| CPU | All core turbo  frequency|
 |---------|---------|---------|
-| I7ie Instances | 8559C | 3.2GHz|
-| p6 Instances |  |  |
+| I7ie/p6 Instances | 8559C | 3.2GHz|
+
 
 ### Custom Intel Xeon 6 processors(Granite Rapids)
 | EC2 Gen8 instance types| CPU | All core turbo frequency|
@@ -59,4 +59,11 @@
 | C7a/M7a/R7a instances| 9R14| 3.7GHz|
 
 # Graviton&ARM CPU-based instances
-| p6e Instances | Grace | xx |
+| EC2 instance types| CPU | All core turbo frequency|
+|---------|---------|---------|
+| A1 Instances | AWS Graviton1 | 2.3GHz |
+| 6g/is4gen/im4gn/I4g/t4g Instances | AWS Graviton2 | 2.5GHz |
+| 7g Instances | AWS Graviton3 | 2.6GHz |
+| c7gn,HPC7g Instances | AWS Graviton3e | 2.6GHz |
+| 8g/I8g Instances | AWS Graviton4 | 2.8GHz |
+| p6e Instances | Nvidia Grace | 3.1GHz |

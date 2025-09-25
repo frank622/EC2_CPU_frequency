@@ -66,4 +66,4 @@
 | 7g Instances | AWS Graviton3 | 2.6GHz |
 | c7gn,HPC7g Instances | AWS Graviton3e | 2.6GHz |
 | 8g/I8g Instances | AWS Graviton4 | 2.8GHz（2.7GHz for 48xlarge） |
-| p6e Instances | Nvidia Grace | 3.1GHz/3.0GHz |
+| p6e Instances | Nvidia Grace | 3.0GHz |

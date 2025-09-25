@@ -31,29 +31,29 @@
 | I7ie/p6 Instances | 8559C | 3.2GHz|
 
 
-### Custom Intel Xeon 6 processors(Granite Rapids)
+#### Custom Intel Xeon 6 processors(Granite Rapids)
 | EC2 Gen8 instance types| CPU | All core turbo frequency|
 |---------|---------|---------|
 | R/M8i and R/M8i-flex instances| 6975P-C| 3.9GHz|
 
 # AMD CPU-based instances
-### Custom AMD EYPC Zen1 processors(Naples)
+#### Custom AMD EYPC Zen1 processors(Naples)
 | EC2 Gen5 instance types| CPU | All core turbo frequency|
 |---------|---------|---------|
 | M5a/R5a/T3a instances| 7571| 2.5GHz|
 
-### Custom AMD EYPC Zen2 processors(Rome)
+#### Custom AMD EYPC Zen2 processors(Rome)
 | EC2 Gen5 instance types| CPU | All core turbo frequency|
 |---------|---------|---------|
 | C5a/hpc5a//G4ad/G5 instances| 7R32| 3.3GHz|
 
-### Custom AMD EYPC Zen3 processors(Milan)
+#### Custom AMD EYPC Zen3 processors(Milan)
 | EC2 Gen6 instance types| CPU | All core turbo frequency|
 |---------|---------|---------|
 | C6a/M6a/R6a/HPC6a/G6/G6e/p5/p5e instances| 7R13| 3.6GHz|
 
 
-### Custom AMD EYPC Zen4 processors(Genoa)
+#### Custom AMD EYPC Zen4 processors(Genoa)
 | EC2 Gen7 instance types| CPU | All core turbo frequency|
 |---------|---------|---------|
 | C7a/M7a/R7a instances| 9R14| 3.7GHz|
@@ -65,5 +65,5 @@
 | 6g/is4gen/im4gn/I4g/t4g Instances | AWS Graviton2 | 2.5GHz |
 | 7g Instances | AWS Graviton3 | 2.6GHz |
 | c7gn,HPC7g Instances | AWS Graviton3e | 2.6GHz |
-| 8g/I8g Instances | AWS Graviton4 | 2.8GHz |
-| p6e Instances | Nvidia Grace | 3.1GHz |
+| 8g/I8g Instances | AWS Graviton4 | 2.8GHz（2.7GHz for 48xlarge） |
+| p6e Instances | Nvidia Grace | 3.1GHz/3.0GHz |

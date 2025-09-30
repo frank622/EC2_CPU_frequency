@@ -69,8 +69,8 @@
 | CRM 6g/is4gen/im4gn/I4g/t4g Instances | AWS Graviton2 | 2.5GHz |
 | CRM 7g Instances | AWS Graviton3 | 2.6GHz |
 | c7gn,HPC7g Instances | AWS Graviton3e | 2.6GHz |
-| CRM 8g/I8g Instances | AWS Graviton4 | 2.8GHz（2.7GHz for 48xlarge） |
-| p6/p6e Instances | Nvidia Grace | 3.0GHz |
+| CRM 8g/I8g/p6 Instances | AWS Graviton4 | 2.8GHz（2.7GHz for 48xlarge） |
+| p6e Instances | Nvidia Grace | 3.0GHz |
 
 
 > **📝 Notes**

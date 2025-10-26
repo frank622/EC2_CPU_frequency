@@ -63,7 +63,7 @@
 | C7a/M7a/R7a/hpc7a instances| 9R14| 3.7GHz|
 
 
-#### Custom AMD EYPC Zen5 processors(Genoa)
+#### Custom AMD EYPC Zen5 processors(Nirvana)
 | EC2 Gen7 instance types| CPU | frequency|
 |---------|---------|---------|
 | M8a instances|9R45 | Max Speed:4.5GHz|

@@ -67,7 +67,7 @@
 | EC2 Gen8 instance types| CPU | frequency|
 |---------|---------|---------|
 | C8a/M8a/R8a instances|9R45 | Max Speed:4.5GHz|
-| X8aedz instances|9R06 | Max Speed:5GHz|
+| X8aedz/m8azn instances|9R06 | Max Speed:5GHz|
 
 
 # Graviton&ARM CPU-based instances

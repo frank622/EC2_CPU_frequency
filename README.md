@@ -38,7 +38,7 @@
 #### Custom Intel Xeon 6 processors(Granite Rapids)
 | EC2 Gen8 instance types| CPU | All core turbo frequency|
 |---------|---------|---------|
-| R/M8i/R/M8i-flex/X8i instances| 6975P-C| 3.9GHz|
+| R/M8i/R/M8i-flex/X8i/C8ine instances| 6975P-C| 3.9GHz|
 
 # AMD CPU-based instances
 #### Custom AMD EYPC Zen1 processors(Naples)

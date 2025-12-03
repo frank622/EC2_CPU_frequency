@@ -58,13 +58,13 @@
 
 
 #### Custom AMD EYPC Zen4 processors(Genoa)
-| EC2 Gen8 instance types| CPU | All core turbo frequency|
+| EC2 Gen7 instance types| CPU | All core turbo frequency|
 |---------|---------|---------|
 | C7a/M7a/R7a/hpc7a instances| 9R14| 3.7GHz|
 
 
 #### Custom AMD EYPC Zen5 processors(Nirvana)
-| EC2 Gen7 instance types| CPU | frequency|
+| EC2 Gen8 instance types| CPU | frequency|
 |---------|---------|---------|
 | C8a/M8a/R8a instances|9R45 | Max Speed:4.5GHz|
 | X8aedz instances|9R06 | Max Speed:5GHz|

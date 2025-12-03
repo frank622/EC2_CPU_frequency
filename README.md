@@ -38,7 +38,7 @@
 #### Custom Intel Xeon 6 processors(Granite Rapids)
 | EC2 Gen8 instance types| CPU | All core turbo frequency|
 |---------|---------|---------|
-| R/M8i/R/M8i-flex instances| 6975P-C| 3.9GHz|
+| R/M8i/R/M8i-flex/X8i instances| 6975P-C| 3.9GHz|
 
 # AMD CPU-based instances
 #### Custom AMD EYPC Zen1 processors(Naples)
@@ -66,7 +66,8 @@
 #### Custom AMD EYPC Zen5 processors(Nirvana)
 | EC2 Gen7 instance types| CPU | frequency|
 |---------|---------|---------|
-| M8a instances|9R45 | Max Speed:4.5GHz|
+| C8a/M8a/R8a instances|9R45 | Max Speed:4.5GHz|
+| X8aedz instances|9R06 | Max Speed:5GHz|
 
 
 # Graviton&ARM CPU-based instances

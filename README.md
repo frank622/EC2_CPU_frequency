@@ -78,7 +78,7 @@
 | CRM 7g Instances | AWS Graviton3 | 2.6GHz |Neoverse v1| 
 | c7gn,HPC7g Instances | AWS Graviton3e | 2.6GHz |Neoverse v1| 
 | CRM 8g/I8g Instances | AWS Graviton4 | 2.8GHz（2.7GHz for 48xlarge） |Neoverse v2| 
-| p6e Instances | Nvidia Grace | 3GHz |Neoverse v2| 
+| p6e Instances | Nvidia Grace？ | 3GHz？ |Neoverse v2| 
 | M8g Instances | AWS Graviton5 | 3GHz |Neoverse v3| 
 
 
